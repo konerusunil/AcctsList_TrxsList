@@ -1,0 +1,14 @@
+C:\NotBackedUp\workplace\ViewAccounts_ViewTransactions\Accounts\src\main\java\accounts\AccountsApplication.java
+C:\NotBackedUp\workplace\ViewAccounts_ViewTransactions\Accounts\src\main\java\accounts\model\Accounts.java
+C:\NotBackedUp\workplace\ViewAccounts_ViewTransactions\Accounts\src\main\java\accounts\controller\AccountsController.java
+C:\NotBackedUp\workplace\ViewAccounts_ViewTransactions\Accounts\src\main\java\accounts\model\AccountDto.java
+C:\NotBackedUp\workplace\ViewAccounts_ViewTransactions\Accounts\src\main\java\accounts\LoadDatabase.java
+C:\NotBackedUp\workplace\ViewAccounts_ViewTransactions\Accounts\src\main\java\accounts\model\TransactionDetails.java
+C:\NotBackedUp\workplace\ViewAccounts_ViewTransactions\Accounts\src\main\java\accounts\service\TransactionDetailId.java
+C:\NotBackedUp\workplace\ViewAccounts_ViewTransactions\Accounts\src\main\java\accounts\exception\AccountNotFoundAdvice.java
+C:\NotBackedUp\workplace\ViewAccounts_ViewTransactions\Accounts\src\main\java\accounts\exception\AccountNotFoundException.java
+C:\NotBackedUp\workplace\ViewAccounts_ViewTransactions\Accounts\src\main\java\accounts\model\TransactionDetailDto.java
+C:\NotBackedUp\workplace\ViewAccounts_ViewTransactions\Accounts\src\main\java\accounts\service\AccountsModelAssembler.java
+C:\NotBackedUp\workplace\ViewAccounts_ViewTransactions\Accounts\src\main\java\accounts\service\AccountMapper.java
+C:\NotBackedUp\workplace\ViewAccounts_ViewTransactions\Accounts\src\main\java\accounts\repository\TransactionDetailRepository.java
+C:\NotBackedUp\workplace\ViewAccounts_ViewTransactions\Accounts\src\main\java\accounts\repository\AccountsRepository.java

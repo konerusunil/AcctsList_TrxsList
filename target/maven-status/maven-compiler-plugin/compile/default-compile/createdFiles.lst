@@ -1,0 +1,14 @@
+accounts\service\AccountMapper.class
+accounts\controller\AccountsController.class
+accounts\model\Accounts.class
+accounts\model\TransactionDetails.class
+accounts\AccountsApplication.class
+accounts\repository\TransactionDetailRepository.class
+accounts\service\TransactionDetailId.class
+accounts\exception\AccountNotFoundAdvice.class
+accounts\model\AccountDto.class
+accounts\repository\AccountsRepository.class
+accounts\LoadDatabase.class
+accounts\service\AccountsModelAssembler.class
+accounts\exception\AccountNotFoundException.class
+accounts\model\TransactionDetailDto.class
